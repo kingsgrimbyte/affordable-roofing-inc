@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Best Roofers in [location] | About Us",
+  "metaDescription": "Trusted local roofing experts offering honest repairs, quality replacements, and community-focused service. Call for a free estimate: [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/affordableroofinginc_net/Roofing_Services_about_bannerImage_-LlVUl3pv.jpg",
+  "h1Banner": "Best Roofers in [location] | About Us",
+  "p1Banner": "Trusted local roofing experts offering honest repairs, quality replacements, and community-focused service. Call for a free estimate: [phone]",
+  "p2": "Founded by experienced roofers who grew up in construction, Affordable Roofing INC has spent years earning neighbors’ trust through honest pricing, dependable timelines, and craftsmanship that lasts. Our mission is to protect homes and businesses with durable roofing solutions and transparent communication, and we commit to treating every property as if it were our own in [location].",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/affordableroofinginc_net/Roofing_Services_about_h2Image_ralRTChck.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver long-lasting roofing repairs and replacements with integrity, safety, and clear pricing in [location]—so homeowners and business owners can rely on a dry, secure building and a straightforward process from start to finish."
+    },
+    {
+      "title": "Our Vision",
+      "description": "We aim to be the neighborhood roofing team people recommend for quality materials, honest estimates, and a community-first approach. We blend old‑school workmanship with modern roofing systems to protect families and properties for decades."
+    },
+    {
+      "title": "Our Values",
+      "description": "Experience, professionalism, and accountability guide everything we do. Our crew brings decades of combined experience—including certified installers, storm-repair specialists, and project managers—so you get skilled hands, licensed work, and clear communication on every job."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide residential and commercial roofing services across [location]. Ready to protect your roof and increase curb appeal? Call us or request a free estimate online.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
